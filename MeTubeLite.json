@@ -10,7 +10,7 @@
     "tgChatId": "1688950220"
   },
   "security": {
-    "packageName": "com.community.oneroom",
+    "packageName": "com.biomes.vanced",
     "killOnMismatch": true
   },
   "ui": {
