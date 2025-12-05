@@ -125,10 +125,10 @@
         "TESTER_DEVICE_2"
       ]
     },
-    "ADMIN_ACCESS": {
+    "ADMIN": {
       "type": "lifetime",
       "devices": [
-        "22a01fca5590cf2f"
+        "8981e58d351652fd"
       ],
       "notify": false,
       "toast": "👑 Welcome Owner"
