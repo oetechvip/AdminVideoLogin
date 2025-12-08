@@ -9,10 +9,6 @@
     "tgBotToken": "1688950220:AAE1a3M7qI9Z6qdUd_pv1XhYgHBi4sxdPdM",
     "tgChatId": "1688950220"
   },
-  "security": {
-    "packageName": "com.biomes.vanced",
-    "killOnMismatch": true
-  },
   "ui": {
     "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
     "subtitle": "Premium Login Key",
