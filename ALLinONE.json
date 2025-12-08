@@ -69,7 +69,7 @@
       "notify": true,
       "toast": "Welcome Develover"
       "devices": [
-        "22a01fca5590cf2f",
+        "TESTER_DEVICE_1",
         "TESTER_DEVICE_2"
       ]
     },
