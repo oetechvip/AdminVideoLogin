@@ -69,8 +69,9 @@
       "notify": true,
       "toast": "Welcome Develover"
       "devices": [
-        "TESTER_DEVICE_1",
+        "22a01fca5590cf2f",
         "TESTER_DEVICE_2"
+      ]
     },
     "UPIL": {
       "type": "lifetime",
@@ -78,8 +79,9 @@
       "notify": true,
       "toast": "Welcome AzmyUpil"
       "devices": [
-        "TESTER_DEVICE_1",
+        "22a01fca5590cf2f",
         "TESTER_DEVICE_2"
+      ]
     },
     "VIP_SILVER": {
       "type": "lifetime",
