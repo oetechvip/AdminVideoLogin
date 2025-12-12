@@ -1,0 +1,234 @@
+{
+  "config": {
+    "maintenance": false,
+    "silentCheck": true,
+    "timezone": "Asia/indonesia",
+    "broadcastEnabled": false,
+    "broadcastMessage": "Welcome to OE TECH Mods",
+    "adminUrl": "https://wa.me/+6281258668851",
+    "tgBotToken": "1688950220:AAE1a3M7qI9Z6qdUd_pv1XhYgHBi4sxdPdM",
+    "tgChatId": "1688950220"
+  },
+  "security": {
+    "packageName": "com.community.oneroom",
+    "killOnMismatch": false
+  },
+  "ui": {
+    "title": "𝗢 𝗘   𝗧 𝗘 𝗖 𝗛",
+    "subtitle": "𝗞𝗼𝗱𝗲 𝗔𝗸𝘀𝗲𝘀 𝗣𝗿𝗲𝗺𝗶𝘂𝗺",
+    "loginBtn": "MASUK",
+    "adminBtn": "ADMIN",
+    "errorTitle": "Server sedang bermasalah",
+    "errorSub": "Tidak dapat terhubung ke server autentikasi.",
+    "enableParticles": true,
+    "particleColor1": "#FF0016",
+    "particleColor2": "#FD01FF",
+    "socials": {
+      "telegram": true,
+      "youtube": true,
+      "instagram": true
+    }
+  },
+  "theme": {
+    "useCustom": true,
+    "background": "#050505",
+    "accent": "#4FE6B1",
+    "text": "#ffffff",
+    "subText": "#aaaaaa"
+  },
+  "social_links": {
+    "telegram": "https://t.me/OEOfficial",
+    "youtube": "https://youtube.com/@karaokesuka2",
+    "instagram": "https://instagram.com/oetech.vip"
+  },
+  "promo": {
+    "enabled": true,
+    "text": "BELI KODE PREMIUM - 50% OFF",
+    "url": "https://wa.me/+6281258668851"
+  },
+  "update": {
+    "available": false,
+    "force": false,
+    "version": "1.0",
+    "url": "https://example.com/update.apk"
+  },
+  "blacklist": [
+    "BANNED_DEVICE_ID_1",
+    "BANNED_DEVICE_ID_2"
+  ],
+  "keys": {
+    "VIP_GOLD": {
+      "type": "lifetime",
+      "interval": "1d",
+      "notify": true,
+      "toast": "💛 Welcome Gold VIP Member!"
+    },
+    "OWNER": {
+      "type": "lifetime",
+      "interval": "7d",
+      "notify": true,
+      "toast": "Welcome Develover"
+    },
+    "VIP_SILVER": {
+      "type": "lifetime",
+      "interval": "12h",
+      "notify": true,
+      "toast": "🥈 Welcome Silver Member!"
+    },
+    "TRIAL_1HOUR": {
+      "type": "duration",
+      "value": "1h",
+      "interval": "everytime",
+      "notify": true,
+      "toast": "⏳ 1 Hour Trial Started"
+    },
+    "TRIAL_1DAY": {
+      "type": "duration",
+      "value": "1d",
+      "interval": "everytime",
+      "notify": true,
+      "toast": "📅 24 Hour Trial Active"
+    },
+    "YOUTUBER_KEY": {
+      "type": "lifetime",
+      "devices": [
+        "DEVICE_ID_OF_YOUTUBER_1",
+        "DEVICE_ID_OF_YOUTUBER_2"
+      ],
+      "interval": "1w",
+      "notify": false,
+      "toast": "🎥 Welcome Content Creator!"
+    },
+    "RESELLER_PANEL": {
+      "type": "date",
+      "value": "2030-12-31",
+      "interval": "1d",
+      "notify": true,
+      "toast": "🛒 Reseller Access Granted"
+    },
+    "WEEKLY_SUB": {
+      "type": "duration",
+      "value": "7d",
+      "interval": "6h",
+      "notify": true,
+      "toast": "Weekly Subscription Active"
+    },
+    "MONTHLY_SUB": {
+      "type": "duration",
+      "value": "30d",
+      "interval": "1d",
+      "notify": true,
+      "toast": "Monthly Subscription Active"
+    },
+    "BETA_TESTER": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+    },
+    "ADMIN": {
+      "type": "lifetime",
+      "devices": [
+        "8981e58d351652fd",
+        "22a01fca5590cf2f"
+      ],
+      "notify": true,
+      "toast": "Welcome Owner"
+    },
+    "DPMods": {
+      "type": "duration",
+      "interval": "everytime",
+      "notify": true,
+      "value": "1h",
+      "toast": "🛒 Reseller Access Granted"
+    },
+    "OE TESS": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-25",
+      "toast": "Today Key"
+      },
+    "NENK GEDE": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-10",
+      "toast": "Welcome to free user",
+      "devices": [
+        "07cdeb1a749aeb56",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN2": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN3": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN4": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "PERCOBAAN5": {
+      "type": "date",
+      "interval": "everytime",
+      "notify": true,
+      "value": "2025-12-29",
+      "toast": "Welcome to free user",
+      "devices": [
+        "22a01fca5590cf2f",
+        "TESTER_DEVICE_2"
+      ]
+      },
+    "FAMILY": {
+      "type": "date",
+      "interval": "7d",
+      "notify": true,
+      "value": "2026-01-13",
+      "toast": "Welcome 𝗢𝗘 𝗧𝗘𝗖𝗛 Family",
+      "devices": [
+        "d799f350a10feb9c",
+        "22a01fca5590cf2f"
+      ]
+      },
+    "UPIL": {
+      "type": "lifetime",
+      "interval": "30d",
+      "notify": true,
+      "toast": "❤Selamat Datang AzmyUpil❤",
+      "devices": [
+        "8981e58d351652fd",
+        "22a01fca5590cf2f"
+      ]
+    }
+  }
+}
